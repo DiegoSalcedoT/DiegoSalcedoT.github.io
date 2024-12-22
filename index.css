@@ -30,3 +30,14 @@ td {
   font-family: monospace;
   background-color: d1ff33;
 }
+
+p {
+  text-align: center;
+  text-decoration: dotted;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
