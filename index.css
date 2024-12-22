@@ -36,8 +36,8 @@ p {
   text-decoration: dotted;
 }
 
-.container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.centered {
+  display: block;
+  margin: 0 auto;
 }
+
